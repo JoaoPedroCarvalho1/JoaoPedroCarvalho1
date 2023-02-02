@@ -1,4 +1,4 @@
-<h1>Olá me chamo João </h1>
+<h1>Olá me chamo João  Pedro </h1>
 <h2>mas pode me chamar de J.P</h2>
 
 Tecnologias :
