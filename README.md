@@ -7,11 +7,11 @@ Tecnologias :
     <li>CSS</li>
     <li>JAVASCRIPT</li>
     <li>PYTHON</li>
+    <li>JQUERY</li>
+    <li>BOOTSTRAP</li>
 </ul>
 Futuras Tecnologias:
 <ul>
     <li>REACT</li>
     <li>NODE.JS</li>
-    <li>JQUERY</li>
-    <li>BOOTSTRAP</li>
 </ul>
