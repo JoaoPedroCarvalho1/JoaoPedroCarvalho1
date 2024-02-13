@@ -8,9 +8,9 @@ Tecnologias :
     <li>PYTHON</li>
     <li>JQUERY</li>
     <li>BOOTSTRAP</li>
+    <li>REACT</l
 </ul>
 Futuras Tecnologias:
 <ul>
-    <li>REACT</li>
     <li>NODE.JS</li>
 </ul>
