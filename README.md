@@ -8,7 +8,7 @@ Tecnologias :
     <li>PYTHON</li>
     <li>JQUERY</li>
     <li>BOOTSTRAP</li>
-    <li>REACT</l
+    <li>REACT</li>
 </ul>
 Futuras Tecnologias:
 <ul>
