@@ -9,6 +9,7 @@ Tecnologias :
     <li>JQUERY</li>
     <li>BOOTSTRAP</li>
     <li>REACT</li>
+    <li>Java</li>
 </ul>
 Futuras Tecnologias:
 <ul>
