@@ -15,4 +15,4 @@ Futuras Tecnologias:
 <ul>
     <li>NODE.JS</li>
 </ul>
-![Anurag's GitHub stats](https://github.com/JoaoPedroCarvalho1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
