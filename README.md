@@ -1,18 +1,3 @@
-<h1>Olá me chamo João  Pedro </h1>
+###Olá me chamo João  Pedro 
 
-Tecnologias :
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JAVASCRIPT</li>
-    <li>PYTHON</li>
-    <li>JQUERY</li>
-    <li>BOOTSTRAP</li>
-    <li>REACT</li>
-    <li>Java</li>
-</ul>
-Futuras Tecnologias:
-<ul>
-    <li>NODE.JS</li>
-</ul>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![JP GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCarvalho1&show_icons=true&theme=onedark)
