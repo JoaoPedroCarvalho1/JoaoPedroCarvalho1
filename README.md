@@ -15,3 +15,4 @@ Futuras Tecnologias:
 <ul>
     <li>NODE.JS</li>
 </ul>
+![Anurag's GitHub stats](https://github.com/JoaoPedroCarvalho1)
